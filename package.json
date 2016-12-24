@@ -1,0 +1,33 @@
+{
+  "name": "full_stack_web_specialist_task",
+  "version": "1.0.0",
+  "description": "task1",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^2.0.0-alpha.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.4",
+    "nodemon": "^1.11.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.0-beta6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakshil/Full_Stack_Web_Specialist_Task.git"
+  },
+  "author": "dakshil shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dakshil/Full_Stack_Web_Specialist_Task/issues"
+  },
+  "homepage": "https://github.com/dakshil/Full_Stack_Web_Specialist_Task#readme"
+}
